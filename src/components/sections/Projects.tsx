@@ -73,7 +73,7 @@ const projects = [
     solution: 'Built a data pipeline to calculate 5 key financial ratios across 4 years, then visualised them in an interactive Tableau dashboard.',
     impact: 'The analysis clearly shows how Apple has grown its profit margins as services revenue increased — a concrete strategic insight.',
     tech: ['Python', 'Tableau', 'Pandas', 'yFinance'],
-    url: 'url: 'https://public.tableau.com/app/profile/newkriti.gautam/viz/AppleInc_FinancialPerformanceAnalysis/AppleInc_FinancialPerformanceAnalysis20222025',',
+    url: 'https://public.tableau.com/app/profile/newkriti.gautam/viz/AppleInc_FinancialPerformanceAnalysis/AppleInc_FinancialPerformanceAnalysis20222025',
     color: 'gold',
     gradient: 'from-gold/8 to-teal/5',
     borderHover: 'hover:border-gold/40',
