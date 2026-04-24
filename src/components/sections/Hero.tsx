@@ -109,7 +109,7 @@ export default function Hero() {
           className="inline-flex items-center gap-2 mb-10 px-4 py-2 rounded-full border border-teal/30 bg-teal/5"
         >
           <span className="w-1.5 h-1.5 rounded-full bg-teal animate-pulse" />
-          <span className="font-mono text-xs text-teal tracking-widest uppercase">Open to Opportunities &middot; 2025</span>
+          <span className="font-mono text-xs text-teal tracking-widest uppercase">Open to Opportunities &middot; 2026</span>
         </motion.div>
 
         <motion.div
